@@ -1,0 +1,10 @@
+data_paths:
+  recipes: "data/cleaned_recipes.csv"
+  images: "data/images_diet.csv"
+  search_data: "data/search_data.csv"
+model_path: "models/KMeans_Model.pkl"
+clustering_params:
+  n_clusters: 5
+  random_state: 42
+search_params:
+  top_matches: 5
