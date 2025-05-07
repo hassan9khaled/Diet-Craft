@@ -7,7 +7,7 @@ class bmi:
     
     def calculate_bmi(self):
         classes = {
-            "Underweight" : 18.5,
+            "Underweight" : 18.4,
             "Normal": 24.9,
             "Overweight":30,
         }
